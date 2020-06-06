@@ -1,0 +1,24 @@
+Zad 1.
+
+# Który z operatorów użytych w wyrażeniu warunkowym pętli while ma najwyższy, a który najniższy priorytet?
+
+Najwyższy priorytet – operator ++
+Najniższy priorytet – operator =
+
+# Jak działa i jaką wartość zwraca przyrostkowy operator ++ ?
+
+Przy 'skad' odpowiada za przemieszczanie sie po kolejnych znakach ciągu tekstowego;
+Przy 'bufor' za przeskakiwanie prez kolejne elementy tablicy;
+
+# Do czego służy jednoargumentowy operator *?
+
+Konwertuje adres pamięci odczytany na wartość przepisaną do adresu.
+
+# Jaką wartość zwraca operator przypisania ?
+
+Zwraca kolejno wartości pól z tekstu wczytanego jako argument.
+
+# Jak interpretowane jest wyrażenie warunkowe w pętli while, jeżeli zamaiast wyrażenia logicznego (o wartości true lub false) pojawia się w nim wyrażenie arytmetyczne?
+
+Jeżeli wyrażeniem warunkowym będzie liczba 0, zostanie ona zinterpretowana jako 'false', natomiast każda inna liczba będzie uznana za 'true'.
+
